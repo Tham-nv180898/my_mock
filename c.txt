@@ -1,2 +1,7 @@
 noi dung c
+<<<<<<< HEAD
 cap nhap 2
+=======
+
+cap nhap 1
+>>>>>>> origin/master
