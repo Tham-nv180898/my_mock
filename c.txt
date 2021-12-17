@@ -1,1 +1,2 @@
 noi dung c
+cap nhap 2
